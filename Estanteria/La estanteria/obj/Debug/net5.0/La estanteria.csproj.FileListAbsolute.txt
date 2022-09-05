@@ -1,0 +1,16 @@
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.exe
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.deps.json
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.runtimeconfig.json
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.runtimeconfig.dev.json
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.dll
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\bin\Debug\net5.0\La estanteria.pdb
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.csproj.AssemblyReference.cache
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.AssemblyInfoInputs.cache
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.AssemblyInfo.cs
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.csproj.CoreCompileInputs.cache
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.dll
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\refint\La estanteria.dll
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.pdb
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\La estanteria.genruntimeconfig.cache
+C:\Users\xerox\Desktop\Programacion\.Repos nuevos\Laboratorio y programacion\Estanteria\La estanteria\obj\Debug\net5.0\ref\La estanteria.dll

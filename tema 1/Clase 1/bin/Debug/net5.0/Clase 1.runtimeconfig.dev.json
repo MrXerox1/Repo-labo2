@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xerox\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xerox\\.nuget\\packages"
+    ]
+  }
+}
