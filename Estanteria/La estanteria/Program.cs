@@ -66,6 +66,7 @@ namespace Estanteria
             Console.WriteLine();
             Console.WriteLine("<------------------------------------------------->");
             Console.WriteLine(Estante.MostrarEstante(estante));
+            Console.ReadKey();
         }
     }
 }
